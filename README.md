@@ -4,7 +4,7 @@
 
 Este repositório contém o projeto desenvolvido durante a **Imersão Agentes de IA**, promovida pela Alura em parceria com o Google. O objetivo da imersão foi capacitar os participantes a criar agentes inteligentes utilizando a API Gemini, abordando conceitos como engenharia de prompts, embeddings e integração com APIs externas.
 
-![Imagem ilustrativa do agente de IA](https://github.com/shakarpg/Imersao_Agentes_IA/blob/main/tela.jpg)
+![Imagem ilustrativa do agente de IA](https://github.com/shakarpg/Imersao_Agentes_IA/blob/main/imersao.jpg)
 
 ## 🧠 Objetivos do Projeto
 
